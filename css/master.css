@@ -2,6 +2,9 @@ body {
     font-family: "Barlow Semi Condensed", sans-serif;
     background-color: hsl(210, 46%, 95%);
     display: flex;
+    margin: auto;
+    max-width: 1120px;
+    transform: translateY(50%);
 }
 @media (max-width: 800px) {
     body {
