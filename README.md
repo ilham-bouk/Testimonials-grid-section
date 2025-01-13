@@ -21,6 +21,9 @@ Thanks for checking out my solution of Intro Component With Sign_up Form front-e
 
 ### The challenge
 
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
 
 I do not have access to the Figma sketch so the design is not pixel perfect.
 
