@@ -1,5 +1,4 @@
 # Frontend Mentor - Testimonials grid section solution
-![Design preview for the Testimonials grid section coding challenge](design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -29,7 +28,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-challenge-solution-Ur81w-PrnY)
 - Live Site URL: [Live site URL](https://ilham-bouk.github.io/Testimonials-grid-section/)
 
 ## My process
@@ -56,7 +55,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-challenge-solution-Ur81w-PrnY). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀
 
