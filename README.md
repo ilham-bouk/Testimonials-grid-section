@@ -12,7 +12,6 @@ Thanks for checking out my solution of Intro Component With Sign_up Form front-e
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -41,12 +40,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 - Flexbox
 - Desktop-first workflow
 
-You will find all the required assets in the `/design` folder. The assets are already optimized.<br>
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-### Useful resources
-
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 ## Author
 
